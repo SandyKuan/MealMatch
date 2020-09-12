@@ -1,1 +1,1 @@
-# MealMatch
+This project built a web-based automatic crowdsourcing system to allow users to upload food photographs and receive correct restaurant information (90% accuracy) within a few minutes. In addition, the restaurants information is generated from a series of tasks on Amazon Mechanical Turk.
